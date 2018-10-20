@@ -30,7 +30,7 @@ var config = {
 			module: "alert",
 		},
 		{
-			module: "updatenotification",
+			module: "MMM-WiFi-Setup",
 			position: "top_bar"
 		},
 		{
