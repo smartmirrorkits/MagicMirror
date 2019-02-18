@@ -37,6 +37,15 @@ var config = {
 			module: "MMM-Remote-Control"
 		},
 		{
+			module: "MMM-Screencast",
+			position: "bottom_right",
+			config: {
+				position: "center",
+				height: 300,
+				width: 500,
+			}
+		},
+		{
 			module: "clock",
 			position: "top_left"
 		},
