@@ -99,6 +99,16 @@ var config = {
 				showPublishDate: true
 			}
 		},
+		{
+			"module": "MMM-awesome-alexa",
+			"position": "bottom_bar",
+			"config": {
+				"wakeWord": "Alexa",
+				"lite": false,
+				"isSpeechVisualizationEnabled": true,
+				"areDisplayCardsEnabled": true
+			}
+		}
 	]
 
 };
