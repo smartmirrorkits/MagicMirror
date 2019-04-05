@@ -23,7 +23,7 @@ var config = {
 
 	language: "en",
 	timeFormat: 12,
-	units: "metric",
+	units: "imperial",
 
 	modules: [
 		{
