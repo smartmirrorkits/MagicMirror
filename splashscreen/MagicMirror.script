@@ -3,11 +3,11 @@ screen_height = Window.GetHeight();
 
 if (Plymouth.GetMode() != "shutdown")
 {
-	theme_image = Image("splash.png");
+	theme_image = Image("splash_rotate.png");
 }
 else
 {
-	theme_image = Image("splash_halt.png");
+	theme_image = Image("splash_halt_rotate.png");
 }
 
 image_width = theme_image.GetWidth();
